@@ -16,6 +16,6 @@ Welcome to my Quarto website.
 ## 👤 About Me
 - 📍 Location: CHINA
 - 🎓 Student of ABA
-- 💻 Interests: No
+- 💻 Interests: Gaming
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
