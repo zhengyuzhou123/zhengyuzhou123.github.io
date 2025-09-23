@@ -9,13 +9,12 @@ format:
 ---
 
 # Hello, World!  
-Welcome to my Quarto website.  
+Welcome to my website.  
 
 ---
 
 ## 👤 About Me
 - 📍 Location: CHINA
-- 🎓 Student of ABA
+- 🎓 Student of BU ABA Major
 - 💻 Interests: Gaming
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
