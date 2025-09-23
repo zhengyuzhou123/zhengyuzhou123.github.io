@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+## 📂 My Projects
+
+- 🚀 **Portfolio Website** – Built with Quarto + GitHub Actions  
+- 📊 **Data Analysis** – Using Python, pandas, and matplotlib  
+- 🤖 **Machine Learning Experiments** – Classification models on sample datasets  
+
+> I’ll keep updating this page as I work on more projects.
