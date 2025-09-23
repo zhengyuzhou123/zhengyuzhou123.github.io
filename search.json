@@ -19,5 +19,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "🚀 Portfolio Website – Built with Quarto + GitHub Actions\n\n📊 Data Analysis – Using Python, pandas, and matplotlib\n\n🤖 Machine Learning Experiments – Classification models on sample datasets\n\n\nI’ll keep updating this page as I work on more projects."
+  },
+  {
+    "objectID": "projects.html#my-projects",
+    "href": "projects.html#my-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "🚀 Portfolio Website – Built with Quarto + GitHub Actions\n\n📊 Data Analysis – Using Python, pandas, and matplotlib\n\n🤖 Machine Learning Experiments – Classification models on sample datasets\n\n\nI’ll keep updating this page as I work on more projects."
   }
 ]
